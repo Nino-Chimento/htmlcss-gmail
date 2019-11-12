@@ -1,3 +1,4 @@
+
 body {
    font-family: 'Yeon Sung', cursive;
    background-image: url(../img/Google-utilizza-Gmail-per-monitorare-i-tuoi-acquisti.jpg);
@@ -32,6 +33,7 @@ hr {
    padding: 5px;
    border-radius: 100px;
    background-color: #f44611;
+   vertical-align: middle;
 }
 .email {
     background-color: silver;
