@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 
 body {
    font-family: 'Yeon Sung', cursive;
@@ -10,8 +13,14 @@ body {
 
 
  button {
-   border-radius: 4px;
+  border-radius: 4px;
  }
+
+
+.page-container {
+  width: 700px;
+}
+
 .headerup {
 
  }
